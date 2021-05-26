@@ -1,1 +1,5 @@
-# introducao_poo_2
+# Introdução à programação orientada a objetos 2
+
+- Variaveis *public* e *private*
+- Construtores
+- Getters e Setters
